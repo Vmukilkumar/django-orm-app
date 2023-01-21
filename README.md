@@ -43,10 +43,4 @@ class EmployeeAdmin(admin.ModelAdmin):
 ![output](./output.png)
 
 ## RESULT
-1. Own meaningful table.
-
-2. used a primary key
-
-3. A minimum of five fields to be used
-
-4. populate the table with minimum of ten records
+Thus the project is developed to have Bus information database
